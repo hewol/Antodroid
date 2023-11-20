@@ -11,10 +11,6 @@ Antodroid is a Free and Open Source custom GSI (Generic System Image) Android RO
 
 For detailed instructions on flashing the Antodroid GSI ROM, please refer to the [Flashing](https://github.com/Hewol/Antodroid/wiki/flashing).
 
-## Contributing
-
-Contributions are always an welcome! your contributions can help improve the ROM faster.
-
 ## Disclaimer
 
 Antodroid GSI ROM is provided as-is and comes with no warranties or guarantees. Flashing custom ROMs may void warranties and can potentially result in device instability or data loss. Proceed at your own risk.
